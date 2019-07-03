@@ -1,6 +1,6 @@
 {
   "name": "@safestudio/vuepress-theme-ebook",
-  "version": "0.0.2",
+  "version": "1.0.2",
   "description": "VuePress ebook theme",
   "main": "index.js",
   "publishConfig": {
@@ -23,9 +23,9 @@
   },
   "homepage": "https://github.com/SafeStudio/vuepress-theme-ebook",
   "dependencies": {
-    "@vuepress/plugin-active-header-links": "^1.0.0-alpha.36",
-    "@vuepress/plugin-nprogress": "^1.0.0-alpha.36",
-    "docsearch.js": "^2.6.2",
+    "@vuepress/plugin-active-header-links": "^1.0.2",
+    "@vuepress/plugin-nprogress": "^1.0.2",
+    "docsearch.js": "^2.6.3",
     "stylus": "^0.54.5",
     "stylus-loader": "^3.0.2",
     "@safestudio/vuepress-plugin-enhanced-search": "^0.0.1"

@@ -7,17 +7,17 @@
   resolved "https://registry.yarnpkg.com/@safestudio/vuepress-plugin-enhanced-search/-/vuepress-plugin-enhanced-search-0.0.1.tgz#98aa23ab59b68e3c00e0d50a7d9bc04f9a6abb44"
   integrity sha512-8tibK4Z+WdZjxDWTixO8ru/Kn49WHOOS9+1ECPk8WcRPCL7xwNBsN+5Pw2j5b5OUolQJ3P4JDa7NFILN3Q2VQQ==
 
-"@vuepress/plugin-active-header-links@^1.0.0-alpha.36":
-  version "1.0.0-alpha.36"
-  resolved "https://registry.yarnpkg.com/@vuepress/plugin-active-header-links/-/plugin-active-header-links-1.0.0-alpha.36.tgz#fd2ccfdf4208f410ea5487b98b6ba48ee9deaa36"
-  integrity sha512-hV7MrID8bUVg9jhldXDszcRd/vVvqgilKFSevA3Epzs0pUs1+SD3F+zpECDRv5RNIMtN4117hQbc1fyK52QZQQ==
+"@vuepress/plugin-active-header-links@^1.0.2":
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@vuepress/plugin-active-header-links/-/plugin-active-header-links-1.0.2.tgz#df04f7fc21640d3e0a0b704037e360e75974d1a2"
+  integrity sha512-Wo9NP55OOJ/vGFnYwStZcDBJMnf1gNDL159K7oiiEltuz8kjZBqmtsIjQXOzXFjA8voYh/RVL48Sr4eGCDd7LQ==
   dependencies:
     lodash.throttle "^4.1.1"
 
-"@vuepress/plugin-nprogress@^1.0.0-alpha.36":
-  version "1.0.0-alpha.36"
-  resolved "https://registry.yarnpkg.com/@vuepress/plugin-nprogress/-/plugin-nprogress-1.0.0-alpha.36.tgz#22c48905540ddda5b9a5833a5d4767b006f0dd10"
-  integrity sha512-vj9uRq2esZaKYihmsenvtodN8QAGz0q04J4/eoJ/RbagEdR/xIZo+i5wgztfsaPBi4nmJo2bzQk2Sy6eUcpmGQ==
+"@vuepress/plugin-nprogress@^1.0.2":
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@vuepress/plugin-nprogress/-/plugin-nprogress-1.0.2.tgz#3fae13c8af23292cf324d159c77e4d0ffc3133ab"
+  integrity sha512-degCJe2Z0eHbYblUGQXuDMIZSwH7twQcbWtkuH8goxXNilvtVxtWvBkUJouJ9RN3RuSk7EfPT171mrwq9yqbUg==
   dependencies:
     nprogress "^0.2.0"
 
@@ -84,10 +84,10 @@ asynckit@^0.4.0:
   resolved "https://registry.yarnpkg.com/asynckit/-/asynckit-0.4.0.tgz#c79ed97f7f34cb8f2ba1bc9790bcc366474b4b79"
   integrity sha1-x57Zf380y48robyXkLzDZkdLS3k=
 
-autocomplete.js@0.33.0:
-  version "0.33.0"
-  resolved "https://registry.yarnpkg.com/autocomplete.js/-/autocomplete.js-0.33.0.tgz#33d460367e2e7b6c2fe424353d955e022fe4594c"
-  integrity sha512-J0F7BkPhYwXvfs8Skp6v2e2IHYv0SL8INyHYwb7nUpvKHr96g6zS8RNEFGEfEuO3ND+XUsesEMM59LlwQoLfoA==
+autocomplete.js@0.36.0:
+  version "0.36.0"
+  resolved "https://registry.yarnpkg.com/autocomplete.js/-/autocomplete.js-0.36.0.tgz#94fe775fe64b6cd42e622d076dc7fd26bedd837b"
+  integrity sha512-jEwUXnVMeCHHutUt10i/8ZiRaCb0Wo+ZyKxeGsYwBDtw6EJHqEeDrq4UwZRD8YBSvp3g6klP678il2eeiVXN2Q==
   dependencies:
     immediate "^3.2.3"
 
@@ -179,13 +179,13 @@ delayed-stream@~1.0.0:
   resolved "https://registry.yarnpkg.com/delayed-stream/-/delayed-stream-1.0.0.tgz#df3ae199acadfb7d440aaae0b29e2272b24ec619"
   integrity sha1-3zrhmayt+31ECqrgsp4icrJOxhk=
 
-docsearch.js@^2.6.2:
-  version "2.6.2"
-  resolved "https://registry.yarnpkg.com/docsearch.js/-/docsearch.js-2.6.2.tgz#cb36a97aeac8a8d31eed5915cdee808a2248b41c"
-  integrity sha512-qyQ+raZlHSkfdpFg8wJNhjiz9WsjdQkRGe2LiiKS6vIIsouNNole2Kg/9UvGoUIK9PLLl31uL3I4YDwnrXt5yQ==
+docsearch.js@^2.6.3:
+  version "2.6.3"
+  resolved "https://registry.yarnpkg.com/docsearch.js/-/docsearch.js-2.6.3.tgz#57cb4600d3b6553c677e7cbbe6a734593e38625d"
+  integrity sha512-GN+MBozuyz664ycpZY0ecdQE0ND/LSgJKhTLA0/v3arIS3S1Rpf2OJz6A35ReMsm91V5apcmzr5/kM84cvUg+A==
   dependencies:
     algoliasearch "^3.24.5"
-    autocomplete.js "0.33.0"
+    autocomplete.js "0.36.0"
     hogan.js "^3.0.2"
     request "^2.87.0"
     stack-utils "^1.0.1"
