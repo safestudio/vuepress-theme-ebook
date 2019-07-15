@@ -1,5 +1,7 @@
 # vuepress-theme-ebook
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/SafeStudio/vuepress-theme-ebook.svg)](https://greenkeeper.io/)
+
 > This theme was forked from default vuepress
 
 ## Plugins
